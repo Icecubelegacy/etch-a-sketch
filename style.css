@@ -1,0 +1,20 @@
+button {
+  background-color: #3882F6;
+  color: #F9FAF8;
+  border-radius: 6px;
+  border: 1px solid #F9FAF8;
+  width: 120px;
+  height: 35px;
+}
+
+.container {
+  width: 960px;
+  height: 960px;
+  border: 1px solid #3882F6;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.tile {
+
+}
